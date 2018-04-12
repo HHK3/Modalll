@@ -22,7 +22,7 @@ body {
 
 #mdWindow {
     width: 53vh;
-    justify-self: center;
+    margin: auto;
     align-self: center;
     background-color: white;
     padding: 1em;
